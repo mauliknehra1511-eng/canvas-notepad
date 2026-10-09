@@ -42,7 +42,7 @@ function renderCanvas() {
 
     // Set text appearance
     ctx.font = `${fontSize}px ${fontFamily}`;
-    ctx.fillStyle = '#000000';
+    ctx.fillStyle = '#000000.';
 
     // ----------------------------------------------
     // Draw every line
